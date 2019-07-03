@@ -123,6 +123,8 @@ namespace virtualText {
 
 
 #### override method
++ 重写方法用相同的签名重写所继承的虚方法. 
++ C# 通过 override 和 virtual 关键字实现了java中的继承. 
 ```C#
 using System; 
 using System.Collections.Generic; 
